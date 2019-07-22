@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="title_users">Usuários</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="hint_search_favorites">Filtrar Favoritos</string>
+    <string name="hint_search_users">Filtrar Usuários</string>
+</resources>
