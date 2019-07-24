@@ -1,4 +1,4 @@
-package com.example.githubusers
+package com.githubusers.view
 
 import org.junit.Test
 
